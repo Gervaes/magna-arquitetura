@@ -69,6 +69,11 @@ footer {
         font-size: 20px;
     }
 
+    .bullet-point-icon {
+        font-size: 72px;
+        padding: 15px;
+    }
+
     footer {
         text-align: start;
         padding: 15px 3vw;
@@ -82,10 +87,5 @@ footer {
 @media (min-width:1200px) {
     body > p {
         padding: 10px 20vw;
-    }
-
-    .bullet-point-icon {
-        font-size: 72px;
-        padding: 15px;
     }
 }
