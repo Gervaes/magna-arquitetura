@@ -646,7 +646,12 @@ video {
 
 .bg-accent {
   --tw-bg-opacity: 1;
-  background-color: rgb(255 114 94 / var(--tw-bg-opacity));
+  background-color: rgb(66 32 6 / var(--tw-bg-opacity));
+}
+
+.bg-yellow-950 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(66 32 6 / var(--tw-bg-opacity));
 }
 
 .p-3 {
@@ -731,7 +736,7 @@ video {
 
 .text-accent {
   --tw-text-opacity: 1;
-  color: rgb(255 114 94 / var(--tw-text-opacity));
+  color: rgb(66 32 6 / var(--tw-text-opacity));
 }
 
 .text-gray-600 {
@@ -769,7 +774,7 @@ video {
 
 .hover\:text-accent:hover {
   --tw-text-opacity: 1;
-  color: rgb(255 114 94 / var(--tw-text-opacity));
+  color: rgb(66 32 6 / var(--tw-text-opacity));
 }
 
 @media (min-width: 768px) {
